@@ -1,0 +1,22 @@
+{
+    "folders": [
+		{
+			"name": "JS_Basic",
+			"path": "..\\..\\JS_Basic"
+		},
+		{
+			"name": "JS_Advanced",
+			"path": ".."
+		},
+		{
+			"name": "json_server",
+			"path": "..\\..\\json_server"
+		},
+		{
+			"path": "..\\..\\ReactJS"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "ReactJS"
+    }
+}
